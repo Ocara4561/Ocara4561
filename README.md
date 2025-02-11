@@ -3,7 +3,7 @@
 -->
 <div align="center">
   <a href="https://github.com/Ocara4561/">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poliannabasso&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocara4561&layout=compact&langs_count=7&theme=cobalt"/>
   </a>
   <img alt="gif" height="200" src="https://tenor.com/en-GB/view/thank-you-very-much-gif-15627230">
   

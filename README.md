@@ -5,7 +5,7 @@
   <a href="https://github.com/Ocara4561/">
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ocara4561&layout=compact&langs_count=7&theme=cobalt"/>
   </a>
-  <img alt="gif" height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techtudo.com.br%2Flistas%2F2024%2F05%2Fia-que-cria-imagens-conheca-19-geradores-com-inteligencia-artificial-edsoftwares.ghtml&psig=AOvVaw30EiAm0zv0ln-RprVYbguQ&ust=1739330655385000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDDgeHVuosDFQAAAAAdAAAAABAL">
+  <img alt="gif" height="200" src="https://s2-techtudo.glbimg.com/L9wb1xt7tjjL-Ocvos-Ju0tVmfc=/0x0:1200x800/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/q/l/TIdfl2SA6J16XZAy56Mw/canvaai.png">
   
 </div>
   
